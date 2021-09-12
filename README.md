@@ -1,1 +1,8 @@
 
+Naufal Rafi Athallah Ramadhan 
+
+ <br> [Log][L] | [GitHub][G]  <br>
+
+
+[L]: <TXT/mylog.txt>
+[G]: <https://github.com/naufalrafiathl/os212>
