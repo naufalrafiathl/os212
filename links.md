@@ -1,5 +1,6 @@
-   permalink: /LINKS/
-
+---
+permalink: /LINKS/
+---
 
 
 # LINKS
