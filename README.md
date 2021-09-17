@@ -6,4 +6,4 @@ Naufal Rafi Athallah Ramadhan
 
 [L]: <TXT/mylog.txt>
 [G]: <https://github.com/naufalrafiathl/os212>
-[S]: <https://github.com/naufalrafiathl/os212/LINKS>
+[S]: <https://naufalrafiathl.github.io/os212/LINKS/>
