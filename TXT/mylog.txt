@@ -25,5 +25,6 @@ ZCZC W02 5 Export my Pub Key
 ZCZC W02 20 L12 Trying Demos in SistemOperasi 
 ZCZC W02 180 L71 Working
 ZCZC W02 240 L70 Studying other courses and doing hw
+ZCZC W02 30 L26 Learning C Language basics
 
 
