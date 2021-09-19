@@ -13,5 +13,17 @@ ZCZC W01 15 L13 Assignment #03 Watch videos on linux Command
 ZCZC W01 60 L14 Assignment #04 Dress up Virtual Guess
 ZCZC W01 30 L15 Assignment #05 Setting up SSH and git
 ZCZC W01 10 L17 Assignment #07 Updating mylog.txt
+ZCZC W02 25 L11 Assignment #01 Reading OSC10 about securty and protection
+ZCZC W02 120 L13 Assignment #03 Watch Cyber Security Videos
+ZCZC W02 10 L09 Copying and running bash script to generate SHA256SUM
+ZCZC W02 20 L09 Review my peer links
+ZCZC W02 5 L14 Generating GnuPG
+ZCZC W02 5 L15 Trying command to list GnuPG
+ZCZC W02 5 L16 Import ospubkey.txt
+ZCZC W02 5 L17 Signing os Pub Key
+ZCZC W02 5 Export my Pub Key
+ZCZC W02 20 L12 Trying Demos in SistemOperasi 
+ZCZC W02 180 L71 Working
+ZCZC W02 240 L70 Studying other courses and doing hw
 
 
