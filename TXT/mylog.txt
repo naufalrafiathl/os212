@@ -26,5 +26,8 @@ ZCZC W02 20 L12 Trying Demos in SistemOperasi
 ZCZC W02 180 L71 Working
 ZCZC W02 240 L70 Studying other courses and doing hw
 ZCZC W02 30 L26 Learning C Language basics
+ZCZC W03 10 L14 Checking .bash_aliases
+ZCZC W03 20 L15 Creating extra virtual disk
+ZCZC W03 100 L02 Zoom Meeting
 
 
