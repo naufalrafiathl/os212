@@ -43,4 +43,5 @@ ZCZC W04 10 L14 Installing Package List 2 (TLPI)
 ZCZC W04 25 L15 Fetch and Extract File Week04
 ZCZC W04 45 L11 Reading OSC10 chapter 9 about main memory
 ZCZC W04 20 L16 Updating my links
-ZCZC W04 15 L17 Reviewing my peer links
+ZCZC W04 15 L17 Reviewing my peer link
+ZCZC W04 5 L19 Submiting My WORK of WEEK04
