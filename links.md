@@ -18,3 +18,11 @@ permalink: /LINKS/
 
 1. [Fuse Linux Tutorial in Bahasa](https://www.youtube.com/watch?v=Utkwg9Mwtsg)<br>
 2. [Linux file system explained](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+
+
+# W04
+1. [Main Memory Part 1](https://www.youtube.com/watch?v=Jy_teuaj7Ic)<br>
+2. [Main Memory Part 2](https://www.youtube.com/watch?v=8Zw4gIqqZe0)<br>
+3. [Main Memory Part 3](https://www.youtube.com/watch?v=gUSOVZK7PaU)<br>
+4. [Fun interesting crash course about OS](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
+5. [Linux Tutorial for Beginners: Introduction to Linux Operating System](https://www.youtube.com/watch?v=V1y-mbWM3B8)<br>
