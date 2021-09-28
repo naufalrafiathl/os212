@@ -45,3 +45,7 @@ ZCZC W04 45 L11 Reading OSC10 chapter 9 about main memory
 ZCZC W04 20 L16 Updating my links
 ZCZC W04 15 L17 Reviewing my peer link
 ZCZC W04 5 L19 Submiting My WORK of WEEK04
+ZCZC W04 100 L02 Zoom meeting
+ZCZC W04 180 L71 Working
+ZCZC W04 40 L32 Learning more about bash through youtube
+
