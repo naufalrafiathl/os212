@@ -26,3 +26,10 @@ permalink: /LINKS/
 3. [Main Memory Part 3](https://www.youtube.com/watch?v=gUSOVZK7PaU)<br>
 4. [Fun interesting crash course about OS](https://www.youtube.com/watch?v=26QPDBe-NB8)<br>
 5. [Linux Tutorial for Beginners: Introduction to Linux Operating System](https://www.youtube.com/watch?v=V1y-mbWM3B8)<br>
+
+# W05
+1. [Virtual Memory Basics](https://www.youtube.com/watch?v=8yO2FBBfaB0)<br>
+2. [Understanding "top" command on Linux](https://www.youtube.com/watch?v=jB6dS3_xdBA)<br> 
+3. [15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)<br> 
+4. [11 More Linux Commands Every Linux User Needs | Learning Terminal Part 2](https://www.youtube.com/watch?v=kVlkgiwiY6w)<br> 
+
