@@ -52,4 +52,9 @@ ZCZC W05 45 L14 Doing assignments #4
 ZCZC W05 30 L11 Reading OSC10 chapter 10
 ZCZC W05 30 L12 Doing checklist on the 000-readme-txt on demos/W05
 ZCZC W05 30 L15 Updating my links
+ZCZC W05 30 L13 Trying out previous UTS problem
+ZCZC W05 25 L17 Reviewing my peer links
+ZCZC W05 10 L18 Updating this week mylog.txt
+ZCZC W05 10 L19 Submitting this asssignment
+
 
