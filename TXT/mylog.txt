@@ -56,5 +56,12 @@ ZCZC W05 30 L13 Trying out previous UTS problem
 ZCZC W05 25 L17 Reviewing my peer links
 ZCZC W05 10 L18 Updating this week mylog.txt
 ZCZC W05 10 L19 Submitting this asssignment
+ZCZC W06 20 L11 Reading OSC10 chapter 3 and 4
+ZCZC W06 25 L12 Trying demos
+ZCZC W06 25 L14 Assignment 4
+ZCZC W06 10 L15 Updating bookmark 
+ZCZC W06 10 L17 Reviewing my peer links
+ZCZC W06 10 L18 Updating this log
+ZCZC W06 5 L19 Submiting my assignment
 
 
