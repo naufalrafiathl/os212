@@ -33,3 +33,5 @@ permalink: /LINKS/
 3. [15 Useful Linux Commands Every Linux User Needs | Learning Terminal Part 1](https://www.youtube.com/watch?v=XK81cfvrElg)<br> 
 4. [11 More Linux Commands Every Linux User Needs | Learning Terminal Part 2](https://www.youtube.com/watch?v=kVlkgiwiY6w)<br> 
 
+# W06
+1. [Processes and threads - Gary explains](https://www.youtube.com/watch?v=h_HwkHobfs0)<br>
