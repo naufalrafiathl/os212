@@ -35,3 +35,6 @@ permalink: /LINKS/
 
 # W06
 1. [Processes and threads - Gary explains](https://www.youtube.com/watch?v=h_HwkHobfs0)<br>
+
+# W07 
+1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br> 
