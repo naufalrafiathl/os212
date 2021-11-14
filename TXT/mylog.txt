@@ -71,3 +71,13 @@ ZCZC W07 15 L17 Reviewing peer links
 ZCZC W07 15 L18 Writing this log
 ZCZC W07 5 L19 Submitting 
 ZCZC W07 100 L71 Working
+ZCZC W08 45 L11 Reading OSC10 Chapter 5
+ZCZC W08 30 L12 Trying out demos
+ZCZC W08 30 L13 Trying out previous FinalTerm Prob
+ZCZC W08 150 L14 Reading LFS chapter 1-4 And watch playlist on the topic through youtube
+ZCZC W08 120 L15 Watching youtube video on chapter 5 and doing the checklist on the LFS book
+ZCZC W08 15 L16 Updating my bookmark links 
+ZCZC W08 15 L18 Reviewing my peer links
+ZCZC W08 5 L19 Updating my log
+ZCZC W08 10 L20 Submitting my work
+ZCZC W08 100 L71 Working
