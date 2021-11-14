@@ -38,3 +38,11 @@ permalink: /LINKS/
 
 # W07 
 1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br> 
+
+# W08
+1. [Complete Guide to Linux From Scratch - eduCBA](https://www.educba.com/linux-from-scratch/)<br> 
+The concept of Linux From Scratch is an installation in Linux which will install a full-fledged Linux system by building all the components of the Linux system manually. As we can purely understand that the making of Linux from scratch is a much longer process than actually install a Linux distribution in the system, but with this it brings the customization that might be required for the Linux which gets installed. The flexible, compact and secure system will be as per the requirement of the user and no extra components would be present and will also enable user or developer to learn how Linux systems work internally. With this, in this article, we will see the procedure to install and how this component works in general in a development environment.
+
+2.[LFS 10.1 Chapter 5 - Compiling a Cross Toolchain](https://www.youtube.com/watch?v=6Mw4l0khpCU&t=724s)<br> 
+Build your own Linux operating system from source files using the Linux From Scratch book.
+
